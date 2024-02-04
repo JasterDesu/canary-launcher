@@ -22,6 +22,9 @@ NOTE: Set it to "false" or only "" to not use the client folder, so everything w
 		{
 			"name": "bin"
 		}
+		{
+			"name": "conf"
+		}
 	],
 	"clientFolder": "Tibia",
 	"newClientUrl" : "https://github.com/JasterDesu/canary-launcher/releases/download/1.0.0/client-to-update.zip",
